@@ -17,7 +17,7 @@ class Launch extends React.Component {
                     </IconButton>
                 </Grid>
                 <Grid item>
-                    <Alert severity="info">Under Construction</Alert>
+                    <Alert severity="info">Under Construction..!</Alert>
                 </Grid>
                 <Grid item>
                     <p>Will be launched on Jan-01-2022</p>
