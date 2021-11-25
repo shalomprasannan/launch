@@ -20,7 +20,7 @@ class Launch extends React.Component {
                     <Alert severity="info">Under Construction</Alert>
                 </Grid>
                 <Grid item>
-                    <p>Will be launched in Jan-01-2022</p>
+                    <p>Will be launched on Jan-01-2022</p>
                 </Grid>
                 <Grid item sx={{ textAlign: "center" }}>
                     <Countdown date={"2022-01-01T00:00:00.000+05:30"}
